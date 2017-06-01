@@ -3,7 +3,7 @@
   <ImportGroup Label="PropertySheets" />
   <PropertyGroup Label="UserMacros">
     <!-- From: http://sourceforge.net/projects/opencvlibrary/files/opencv-win/3.1.0/opencv-3.1.0.exe/download -->
-    <OpenCV_vc14>C:\apps\opencv31\opencv\build\x64\vc14</OpenCV_vc14>
+    <OpenCV_vc14>C:\apps\opencv_31\opencv\build\x64\vc14</OpenCV_vc14>
     <!-- From: https://www.blackmagicdesign.com/support -->
     <DeckLink_inc>C:\apps\Blackmagic_DeckLink_SDK_10.9.3\Blackmagic DeckLink SDK 10.9.3\Win\include</DeckLink_inc>
     <!-- From: https://www.usa.canon.com/internet/portal/us/home/explore/solutions-services/digital-camera-sdk-information -->

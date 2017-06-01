@@ -60,15 +60,6 @@
     <ClInclude Include="ElgatoSampleCallback.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="IVideoCaptureFilter.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="IVideoCaptureFilterTypes.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="qedit.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
